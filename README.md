@@ -65,3 +65,5 @@ This project progresses from:
 ## License
 
 Free for educational and portfolio use.
+
+---
