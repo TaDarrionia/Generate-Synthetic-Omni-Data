@@ -127,8 +127,8 @@ Includes:
 
 ### Product & Network
 
-- **product_catalog_4.xlsx**
-- **stores_4.xlsx**
+- **product_catalog.xlsx**
+- **stores.xlsx**
 
 ---
 
@@ -154,8 +154,8 @@ Includes:
 
 For each year:
 
-- **fedex_parcel_YYYY_4.xlsx**
-- **company_shipping_YYYY_4.xlsx**
+- **fedex_parcel_YYYY.xlsx**
+- **company_shipping_YYYY.xlsx**
 
 Includes:
 
